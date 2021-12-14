@@ -2,7 +2,7 @@ package de.anjunar.jsr339;
 
 import de.bitvale.introspector.type.resolved.ResolvedMethod;
 import de.bitvale.introspector.type.resolved.ResolvedType;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 
 import javax.ws.rs.Consumes;
 import javax.ws.rs.HttpMethod;

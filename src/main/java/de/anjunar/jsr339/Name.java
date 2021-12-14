@@ -1,4 +1,4 @@
-package de.bitvale.jsr339;
+package de.anjunar.jsr339;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.Retention;

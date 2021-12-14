@@ -1,4 +1,4 @@
-package de.bitvale.jsr339;
+package de.anjunar.jsr339;
 
 public class PersonForm {
 

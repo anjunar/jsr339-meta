@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>de.bitvale</groupId>
+    <groupId>de.anjunar</groupId>
     <artifactId>jsr3339-meta</artifactId>
-    <version>1.01</version>
+    <version>1.0</version>
 
     <name>JSR 339 Meta</name>
     <description>JSR 339 Meta</description>
@@ -28,7 +28,7 @@
         <developer>
             <name>Patrick Bittner</name>
             <email>patrick.bittner@hamburg.de</email>
-            <organization>BitVale</organization>
+            <organization>Anjunar</organization>
         </developer>
     </developers>
 

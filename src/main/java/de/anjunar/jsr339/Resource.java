@@ -1,4 +1,4 @@
-package de.bitvale.jsr339;
+package de.anjunar.jsr339;
 
 import de.bitvale.introspector.type.resolved.ResolvedType;
 

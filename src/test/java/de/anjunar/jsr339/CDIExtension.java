@@ -1,6 +1,6 @@
-package de.bitvale.jsr339;
+package de.anjunar.jsr339;
 
-import de.bitvale.jsr339.cdi.JaxRSExtension;
+import de.anjunar.jsr339.cdi.JaxRSExtension;
 import org.jboss.weld.environment.se.Weld;
 import org.jboss.weld.environment.se.WeldContainer;
 import org.junit.jupiter.api.extension.ExtensionContext;

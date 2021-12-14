@@ -1,4 +1,4 @@
-package de.bitvale.jsr339;
+package de.anjunar.jsr339;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

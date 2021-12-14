@@ -1,4 +1,4 @@
-package de.bitvale.jsr339;
+package de.anjunar.jsr339;
 
 import com.google.common.collect.Sets;
 import de.bitvale.introspector.type.resolved.ResolvedMethod;

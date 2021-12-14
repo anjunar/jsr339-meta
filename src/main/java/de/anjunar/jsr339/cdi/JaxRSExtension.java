@@ -1,11 +1,11 @@
-package de.bitvale.jsr339.cdi;
+package de.anjunar.jsr339.cdi;
 
 import com.google.common.base.Joiner;
-import de.bitvale.jsr339.Resource;
+import de.anjunar.jsr339.JaxRSSpecification;
+import de.anjunar.jsr339.Resource;
+import de.anjunar.jsr339.ResourceUtil;
 import de.bitvale.introspector.type.cdi.ProcessResolvedType;
 import de.bitvale.introspector.type.resolved.ResolvedType;
-import de.bitvale.jsr339.JaxRSSpecification;
-import de.bitvale.jsr339.ResourceUtil;
 
 import javax.enterprise.event.Observes;
 import javax.enterprise.inject.spi.AfterBeanDiscovery;

@@ -1,6 +1,6 @@
-package de.bitvale.jsr339.cdi;
+package de.anjunar.jsr339.cdi;
 
-import de.bitvale.jsr339.Resource;
+import de.anjunar.jsr339.Resource;
 
 /**
  * @author Patrick Bittner on 07.06.2015.

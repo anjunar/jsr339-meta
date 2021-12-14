@@ -1,7 +1,6 @@
-package de.bitvale.jsr339;
+package de.anjunar.jsr339;
 
-import de.bitvale.jsr339.cdi.Resources;
-import org.junit.jupiter.api.Assertions;
+import de.anjunar.jsr339.cdi.Resources;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 
